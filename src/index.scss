@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Gothic:wght@700&family=Poppins:ital,wght@0,300;0,400;0,700;1,200;1,300&display=swap');
+
+body {
+  margin: 0;
+  font-family: 'Nanum Gothic', sans-serif;
+  font-family: 'Poppins', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #16213E;
+  color: #E94560;
+  font-size: 1em;
+}
+
+button {
+  border: none;
+  outline: none;
+  background-color: #16213E;
+  padding: 0.65rem;
+  min-width: 7rem;
+  text-align: center;
+  color: #E94560;
+  cursor: pointer;
+  border-radius: 8px;
+  border: 1px solid #E94560;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
